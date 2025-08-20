@@ -12,6 +12,19 @@ These scripts handle Wi-Fi driver reset, static IP configuration, NAT setup, IP 
 
 ---
 
+
+## Features
+
+- Creates a Wi-Fi Access Point with internet sharing.  
+- Automatic Wi-Fi driver reset for stability.  
+- Static IP assignment for the AP interface.  
+- Configures NAT and IP forwarding for internet access.  
+- Runs hostapd in foreground for live logging.  
+- Easy start/stop via scripts.
+
+---
+
+
 ## **Prerequisites**
 
 ### 1. Linux Distribution
