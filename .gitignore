@@ -1,0 +1,10 @@
+# Ignore editor/temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
